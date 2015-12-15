@@ -1,0 +1,45 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "Slides for stuff",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --inline --devtool cheap-module-source-map --debug",
+    "build": "webpack -p --progress --profile",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [
+    "slides"
+  ],
+  "author": "Tobias Koppers @sokra",
+  "license": "MIT",
+  "dependencies": {
+    "babel-loader": "^5.3.2",
+    "babel-core": "^5.0.0",
+    "bespoke": "^1.0.0",
+    "bespoke-backdrop": "^1.0.0",
+    "bespoke-hash": "^1.0.2",
+    "bespoke-keys": "^1.1.0",
+    "bespoke-progress": "^1.0.0",
+    "bespoke-scale": "^1.0.1",
+    "bespoke-theme-cube": "^2.0.1",
+    "bespoke-theme-nebula": "^1.0.1",
+    "bespoke-theme-terminal": "^1.0.1",
+    "bespoke-touch": "^1.0.0",
+    "css-loader": "^0.19.0",
+    "file-loader": "^0.8.4",
+    "gh-pages": "^0.4.0",
+    "highlight.js": "^8.8.0",
+    "html-loader": "^0.3.0",
+    "html-webpack-plugin": "^1.6.1",
+    "markdown-loader": "^0.1.7",
+    "react": "^0.13.3",
+    "style-loader": "^0.12.4",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.11.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.4.0"
+  }
+}

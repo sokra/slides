@@ -1,0 +1,20 @@
+img {
+	max-width: 640px;
+}
+
+ul > li:before {
+	content: "•";
+	margin-right: 0.3em;
+}
+
+ul > li {
+	margin-bottom: 5px;
+}
+
+ul {
+	margin-bottom: 8px;
+}
+
+pre {
+	text-align: left;
+}

@@ -1,7 +1,7 @@
 ## Who is using webpack?
 
 * [Instagram](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
-* [WhatApp Web](https://web.whatsapp.com/)
+* [WhatsApp Web](https://web.whatsapp.com/)
 * [Twitter mobile](https://mobile.twitter.com/search)
 * [Paypal](https://www.paypal-engineering.com/2015/08/07/1450/)
 * [Soundcloud](https://soundcloud.com/)

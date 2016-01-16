@@ -10,14 +10,19 @@ import scale from "bespoke-scale";
 import "./webpack.css";
 import hljs from "highlight.js/lib/highlight.js";
 import hljs_JS from "highlight.js/lib/languages/javascript";
+import hljs_XML from "highlight.js/lib/languages/xml";
 import "highlight.js/styles/github.css"
 
 hljs.registerLanguage('javascript', hljs_JS);
+hljs.registerLanguage('html', hljs_XML);
 hljs.initHighlightingOnLoad();
 
-var slidesContext = require.context("./webpack-slides", true, /(js|md)$/);
-
-var slides = slidesContext.keys().sort().map((key) => slidesContext(key));
+var slidesContext, slides;
+function makeSlides() {
+	slidesContext = require.context("./webpack-slides", true, /(js|md)$/);
+	slides = slidesContext.keys().sort().map((key) => slidesContext(key));
+}
+makeSlides();
 
 class App extends React.Component {
 	render() {
@@ -43,3 +48,14 @@ var deck = bespoke.from("article", [
 	scale(),
 	progress()
 ]);
+
+if(module.hot) {
+	module.hot.accept(slidesContext.id, function() {
+		var len = slides.length;
+		makeSlides();
+		if(len !== slides.length) throw new Error("Cannot update because slide count changed");
+		React.render(<App />, document.body);
+		var blocks = document.querySelectorAll('pre code');
+		Array.prototype.forEach.call(blocks, hljs.highlightBlock);
+	})
+}

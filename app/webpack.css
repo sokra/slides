@@ -2,13 +2,27 @@ img {
 	max-width: 640px;
 }
 
+ul, ol {
+	margin-left: 20px;
+}
+
 ul > li:before {
-	content: "•";
-	margin-right: 0.3em;
+	content: "";
 }
 
 ul > li {
+	list-style: inherit;
 	margin-bottom: 5px;
+	padding-left: 0px;
+}
+
+ol > li {
+	list-style: inherit;
+	padding-left: 0px;
+}
+
+ol > li:before {
+	content: "";
 }
 
 ul {
@@ -17,4 +31,30 @@ ul {
 
 pre {
 	text-align: left;
+}
+
+strong {
+	font-weight: bold;
+	color: #9E9;
+}
+
+b {
+	font-weight: bold;
+	color: #F66;
+}
+
+em {
+	color: #99E;
+}
+
+pre {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+img {
+	background: white;
+	border-radius: 10px;
+	padding: 20px;
 }

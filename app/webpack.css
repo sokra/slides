@@ -55,6 +55,12 @@ pre {
 
 img {
 	background: white;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+img[alt=webpack] {
+	background: white;
 	border-radius: 10px;
 	padding: 20px;
 }

@@ -6,6 +6,3 @@
 * Use **description files** which list all dependencies and versions.
 
 Examples: **npm**, bower
-
----
-

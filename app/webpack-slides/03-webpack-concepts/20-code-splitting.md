@@ -7,3 +7,4 @@
   * User experience suffer, startup time is pretty important.
 * Code Splitting **split** the web app **into parts** (*chunks*).
   * Parts are **loaded on demand** (i. e. on user navigation).
+* **Faster initial load** of the web app

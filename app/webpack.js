@@ -11,10 +11,12 @@ import "./webpack.css";
 import hljs from "highlight.js/lib/highlight.js";
 import hljs_JS from "highlight.js/lib/languages/javascript";
 import hljs_XML from "highlight.js/lib/languages/xml";
+import hljs_CSS from "highlight.js/lib/languages/css";
 import "highlight.js/styles/github.css"
 
 hljs.registerLanguage('javascript', hljs_JS);
 hljs.registerLanguage('html', hljs_XML);
+hljs.registerLanguage('css', hljs_CSS);
 hljs.initHighlightingOnLoad();
 
 var slidesContext, slides;

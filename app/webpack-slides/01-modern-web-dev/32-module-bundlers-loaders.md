@@ -5,7 +5,7 @@ Module loaders examples:
 * require.js
 * systemjs
 
-Module bundlers example:
+Module bundlers examples:
 
 * r.js
 * browserify

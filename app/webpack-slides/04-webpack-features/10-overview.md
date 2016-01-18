@@ -9,3 +9,4 @@
   * **Hot Module Replacement**
 * **Configurable** and **extendable**
   * *Every stack is different*
+* **AMD**, **CommonJs** and **ES6 Module** support

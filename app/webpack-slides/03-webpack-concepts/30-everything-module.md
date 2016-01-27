@@ -4,8 +4,8 @@ Simple, but effective idea: **Everything is a module**, every module may have di
 
 ``` js
 // javascript
-import "module.js"
-import "style.css"
+import "./module.js"
+import "./style.css"
 ```
 
 ``` css

@@ -13,7 +13,6 @@ module.exports = {
 	module: {
 		loaders: [
 			[
-				{ test: /\.css$/, loader: "style-loader!css-loader?modules", include: path.resolve(__dirname, "app") },
 				{ test: /\.css$/, loader: "style-loader!css-loader" }
 			],
 			{ test: /\.md$/, loader: "html-loader!markdown-loader" },

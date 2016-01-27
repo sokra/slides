@@ -10,5 +10,5 @@
 ### So...
 
 * I wanted a **module bundler**.
-* It should support **on demand loading** of part of the web app.
-* It should have many **optimization** build in.
+* It should support **on demand loading** of parts of the web app.
+* It should have many **optimizations** build in.

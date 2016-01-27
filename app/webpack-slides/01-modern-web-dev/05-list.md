@@ -1,5 +1,11 @@
 ## Modern frontend development
 
+---
+
+Frontend development **has changed** in the last years...
+
+---
+
 **dependency manager (npm, bower)** &nbsp;|&nbsp;
 building &nbsp;|&nbsp;
 *minimization (uglifyjs, jsmin)* <br>

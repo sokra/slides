@@ -7,7 +7,7 @@
   * easy to use
   * *less optimized for production usage*
 * Or use a **module bundler**
-  * *runs in preparation* and *bundles modules* into a static javascript file
-  * need a preparation/build step
+  * *runs in preparation* and *bundles modules* into static files
+  * needs a preparation/build step
   * *more optimized for production usage*
 * Or use both: module loader for development, module bundler for production

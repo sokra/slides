@@ -57,10 +57,19 @@ img {
 	background: white;
 	border-radius: 5px;
 	padding: 10px;
+	text-decoration: none;
 }
 
 img[alt=webpack] {
 	background: white;
 	border-radius: 10px;
 	padding: 20px;
+}
+
+a {
+	padding-left: 0;
+}
+
+a.img {
+	border-bottom: 0;
 }

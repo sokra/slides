@@ -1,4 +1,4 @@
-## dependencies managers
+## dependency managers
 
 ### Instead we do...
 

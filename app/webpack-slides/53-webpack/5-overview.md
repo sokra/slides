@@ -1,1 +1,0 @@
-![overview](what-is-webpack.png)

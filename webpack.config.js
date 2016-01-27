@@ -24,6 +24,10 @@ module.exports = {
 		new HtmlWebpackPlugin({
 			filename: "frontend-optimize.html",
 			chunks: ["frontend-optimize"]
+		}),
+		new HtmlWebpackPlugin({
+			filename: "webpack.html",
+			chunks: ["webpack"]
 		})
 	]
 }

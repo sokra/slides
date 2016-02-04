@@ -1,5 +1,7 @@
 # slides from @sokra
 
+## [Introduction to webpack](http://sokra.github.io/slides/webpack)
+
 ## [Advanced Frontend Optimization (with webpack)](http://sokra.github.io/slides/frontend-optimize)
 
 # Build from source

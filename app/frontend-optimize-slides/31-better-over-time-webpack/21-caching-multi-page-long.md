@@ -13,4 +13,4 @@ entry: {
 ]
 ```
 
-→ **better caching**, but propably greater size
+→ **better caching**, but probably greater size

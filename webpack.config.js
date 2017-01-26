@@ -4,6 +4,7 @@ var HtmlWebpackPlugin = require("html-webpack-plugin");
 module.exports = {
 	entry: {
 		webpack: "./app/webpack",
+		webpack2: "./app/webpack2",
 		"frontend-optimize": "./app/frontend-optimize"
 	},
 	output: {
@@ -11,13 +12,34 @@ module.exports = {
 		filename: "[name].js"
 	},
 	module: {
-		loaders: [
-			[
-				{ test: /\.css$/, loader: "style-loader!css-loader" }
-			],
-			{ test: /\.md$/, loader: "html-loader!markdown-loader" },
-			{ test: /\.js$/, loader: "babel-loader", include: path.resolve(__dirname, "app") },
-			{ test: /\.(png|jpg|woff2?)$/, loader: "file-loader" }
+		rules: [
+			{
+				test: /\.css$/,
+				use: [
+					"style-loader",
+					"css-loader" 
+				]
+			},
+			{
+				test: /\.md$/,
+				use: [
+					"html-loader",
+					"markdown-loader" 
+				]
+			},
+			{
+				test: /\.js$/,
+				include: path.resolve(__dirname, "app") ,
+				use: [
+					"babel-loader"
+				]
+			},
+			{
+				test: /\.(png|jpg|svg|woff2?)$/,
+				use: [
+					"file-loader"
+				]
+			}
 		]
 	},
 	plugins: [
@@ -28,6 +50,10 @@ module.exports = {
 		new HtmlWebpackPlugin({
 			filename: "webpack.html",
 			chunks: ["webpack"]
+		}),
+		new HtmlWebpackPlugin({
+			filename: "webpack2.html",
+			chunks: ["webpack2"]
 		})
 	]
 }

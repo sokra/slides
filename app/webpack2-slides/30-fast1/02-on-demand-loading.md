@@ -49,5 +49,3 @@ onclick = () => {
     .catch(err => { /*...*/ }); // handle loading error
 };
 ```
-
-App only loads the code it really needs.

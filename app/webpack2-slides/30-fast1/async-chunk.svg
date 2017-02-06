@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="216.58221mm"
+   height="110.70653mm"
+   viewBox="0 0 767.41729 392.26722"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5155"
+       style="overflow:visible">
+      <path
+         id="path5157"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#9f0000;stroke-width:1pt;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5145"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#9f0000;stroke-width:1pt;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5147" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5139"
+       style="overflow:visible">
+      <path
+         id="path5141"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#9f0000;stroke-width:1pt;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#9f0000;stroke-width:1pt;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path4897" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path4863" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4851" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker5096"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path4857" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4845" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4839" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker15831"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#12009f;fill-opacity:1;fill-rule:evenodd;stroke:#12009f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path15833" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker15154"
+       style="overflow:visible">
+      <path
+         id="path15156"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14660"
+       style="overflow:visible">
+      <path
+         id="path14662"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14090"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#12009f;fill-opacity:1;fill-rule:evenodd;stroke:#12009f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path14092" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13912"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#12009f;fill-opacity:1;fill-rule:evenodd;stroke:#12009f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path13914" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13716"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#12009f;fill-opacity:1;fill-rule:evenodd;stroke:#12009f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path13718" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12812"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path12814" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker11184"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path11186" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10374"
+       style="overflow:visible">
+      <path
+         id="path10376"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10022"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path10024" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9596"
+       style="overflow:visible">
+      <path
+         id="path9598"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9072"
+       style="overflow:visible">
+      <path
+         id="path9074"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8287"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#12009f;fill-opacity:1;fill-rule:evenodd;stroke:#12009f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path8289" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8055"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path8057" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7767"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7769" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7665"
+       style="overflow:visible">
+      <path
+         id="path7667"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6575"
+       style="overflow:visible">
+      <path
+         id="path6577"
+         style="fill:#12009f;fill-opacity:1;fill-rule:evenodd;stroke:#12009f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6065"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#12009f;fill-opacity:1;fill-rule:evenodd;stroke:#12009f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6067" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5757"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5759" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5499"
+       style="overflow:visible">
+      <path
+         id="path5501"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5205"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5207" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4911"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4913" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4599"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4601" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path4310"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker15154-7"
+       style="overflow:visible">
+      <path
+         id="path15156-3"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(17.667472,-59.022349)"
+     id="layer1">
+    <g
+       id="g6449"
+       transform="translate(-1.01015,0)">
+      <g
+         id="g4463" />
+      <g
+         transform="translate(-46.921318,-17.843318)"
+         id="g4561">
+        <rect
+           y="286.83813"
+           x="67.197067"
+           height="163.07823"
+           width="150.78087"
+           id="rect4257"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           transform="translate(-178.37223,230.15177)"
+           id="g4182">
+          <rect
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4184"
+             width="105.83729"
+             height="32.650661"
+             x="267.3085"
+             y="78.055725" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="320.63135"
+             y="99.079201"
+             id="text4186"><tspan
+               id="tspan4188"
+               x="320.63135"
+               y="99.079201"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Module B</tspan></text>
+        </g>
+        <g
+           id="g4545"
+           transform="translate(-178.37223,276.88189)">
+          <rect
+             y="78.055725"
+             x="267.3085"
+             height="32.650661"
+             width="105.83729"
+             id="rect4547"
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text4549"
+             y="99.079201"
+             x="320.63135"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+               y="99.079201"
+               x="320.63135"
+               id="tspan4551">Module C</tspan></text>
+        </g>
+        <g
+           transform="translate(-178.37223,324.31296)"
+           id="g4553">
+          <rect
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4555"
+             width="105.83729"
+             height="32.650661"
+             x="267.3085"
+             y="78.055725" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="320.63135"
+             y="99.079201"
+             id="text4557"><tspan
+               id="tspan4559"
+               x="320.63135"
+               y="99.079201"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Module D</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4576"
+         transform="translate(119.43789,-18.310619)">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4578"
+           width="150.78087"
+           height="163.07823"
+           x="67.197067"
+           y="286.83813" />
+        <g
+           id="g4580"
+           transform="translate(-178.37223,230.15177)">
+          <rect
+             y="78.055725"
+             x="267.3085"
+             height="32.650661"
+             width="105.83729"
+             id="rect4582"
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text4584"
+             y="99.079201"
+             x="320.63135"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+               y="99.079201"
+               x="320.63135"
+               id="tspan4586">Module B</tspan></text>
+        </g>
+        <g
+           transform="translate(-178.37223,276.88189)"
+           id="g4588">
+          <rect
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4590"
+             width="105.83729"
+             height="32.650661"
+             x="267.3085"
+             y="78.055725" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="320.63135"
+             y="99.079201"
+             id="text4592"><tspan
+               id="tspan4594"
+               x="320.63135"
+               y="99.079201"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Module C</tspan></text>
+        </g>
+        <g
+           id="g4596"
+           transform="translate(-178.37223,324.31296)">
+          <rect
+             y="78.055725"
+             x="267.3085"
+             height="32.650661"
+             width="105.83729"
+             id="rect4598"
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text4600"
+             y="99.079201"
+             x="320.63135"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+               y="99.079201"
+               x="320.63135"
+               id="tspan4602">Module E</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4599)"
+         d="m 136.36973,241.89792 -23.01372,25.23529"
+         id="path4404" />
+      <path
+         id="path4402"
+         d="m 227.66618,241.31723 19.80958,25.42886"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4599)" />
+      <g
+         id="g4632"
+         transform="translate(35.790987,-208.50219)">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4634"
+           width="150.78087"
+           height="163.07823"
+           x="67.197067"
+           y="286.83813" />
+        <g
+           id="g4636"
+           transform="translate(-178.37223,230.15177)">
+          <rect
+             y="78.055725"
+             x="267.3085"
+             height="32.650661"
+             width="105.83729"
+             id="rect4638"
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text4640"
+             y="99.079201"
+             x="320.63135"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+               y="99.079201"
+               x="320.63135"
+               id="tspan4642">Module A</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(495.84898,-18.310613)"
+         id="g4720">
+        <rect
+           y="373.41129"
+           x="67.197067"
+           height="74.522507"
+           width="150.78087"
+           id="rect4722"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           transform="translate(-178.37223,316.72491)"
+           id="g4724">
+          <rect
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4726"
+             width="105.83729"
+             height="32.650661"
+             x="267.3085"
+             y="78.055725" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="320.63135"
+             y="99.079201"
+             id="text4728"><tspan
+               id="tspan4730"
+               x="320.63135"
+               y="99.079201"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Module E</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4814"
+         transform="translate(329.31134,68.592963)">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4816"
+           width="150.78087"
+           height="74.522507"
+           x="67.197067"
+           y="286.83813" />
+        <g
+           id="g4818"
+           transform="translate(-178.37223,230.15177)">
+          <rect
+             y="78.055725"
+             x="267.3085"
+             height="32.650661"
+             width="105.83729"
+             id="rect4820"
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text4822"
+             y="99.079201"
+             x="320.63135"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+               y="99.079201"
+               x="320.63135"
+               id="tspan4824">Module D</tspan></text>
+        </g>
+      </g>
+      <path
+         id="path4830"
+         d="m 360.22426,208.45176 29.51323,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+      <g
+         id="g5105"
+         transform="translate(411.59033,-135.38266)">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5107"
+           width="150.78087"
+           height="122.76556"
+           x="67.197067"
+           y="333.0986" />
+        <g
+           transform="translate(-178.37223,276.88189)"
+           id="g5117">
+          <rect
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect5119"
+             width="105.83729"
+             height="32.650661"
+             x="267.3085"
+             y="78.055725" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="320.63135"
+             y="99.079201"
+             id="text5121"><tspan
+               id="tspan5123"
+               x="320.63135"
+               y="99.079201"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Module B</tspan></text>
+        </g>
+        <g
+           id="g5125"
+           transform="translate(-178.37223,324.31296)">
+          <rect
+             y="78.055725"
+             x="267.3085"
+             height="32.650661"
+             width="105.83729"
+             id="rect5127"
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text5129"
+             y="99.079201"
+             x="320.63135"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+               y="99.079201"
+               x="320.63135"
+               id="tspan5131">Module C</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4599);marker-start:url(#DotL)"
+         d="m 439.14254,179.85691 0.64454,174.78405"
+         id="path5133" />
+      <path
+         id="path5137"
+         d="m 439.14254,179.85691 37.6529,28.07232"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker5139);marker-end:url(#marker4599)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:"
+         d="m 439.14254,179.85691 69.37435,-26.77936"
+         id="path5143" />
+      <path
+         id="path5149"
+         d="m 668.6909,179.85691 -0.64454,174.78405"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker5155);marker-end:url(#marker4599)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker5139);marker-end:url(#marker4599)"
+         d="M 668.6909,179.85691 631.038,207.92923"
+         id="path5151" />
+      <path
+         id="path5153"
+         d="M 668.6909,179.85691 599.31655,153.07755"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="translate(412.25119,-208.59925)"
+         id="g4732">
+        <rect
+           y="286.83813"
+           x="67.197067"
+           height="74.522507"
+           width="150.78087"
+           id="rect4734"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           transform="translate(-178.37223,230.15177)"
+           id="g4736">
+          <rect
+             style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect4738"
+             width="105.83729"
+             height="32.650661"
+             x="267.3085"
+             y="78.055725" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="320.63135"
+             y="99.079201"
+             id="text4740"><tspan
+               id="tspan4742"
+               x="320.63135"
+               y="99.079201"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Module A</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

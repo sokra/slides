@@ -10,3 +10,11 @@ myRouter({
 ```
 
 App only loads the code it really needs.
+
+---
+
+---
+
+## App Shell Architecture
+
+![App Shell](app-shell.svg)

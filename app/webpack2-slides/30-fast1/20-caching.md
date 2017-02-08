@@ -51,7 +51,8 @@ output: {
 plugins: [
   new webpack.optimize.CommonsChunkPlugin({
     name: "manifest",
-    filename: "manifest.js"
+    filename: "manifest.js",
+    minChunks: Infinity
   })
 ]
 ```

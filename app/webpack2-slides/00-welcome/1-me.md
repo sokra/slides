@@ -1,4 +1,4 @@
-## 😃 Me
+## 😃 Me 😃
 
 github: [@sokra](https://github.com/sokra) 🤓
 

@@ -4,12 +4,12 @@
 ### General Load Performance
 
 * Deliver **only stuff you need**
-  * *Tree Shaking* 🌳
-  * *Targeted Builds* 📌
+  * 🌳 *Tree Shaking*
+  * 📌 *Targeted Builds*
 * Deliver stuff in an **optimal way**
-  * *Bundling* 📦
-  * *Code optimizing* (i. e. minimize) ⚙️
-  * *Inlining* 📝
+  * 📦 *Bundling*
+  * ⚙️ *Code optimizing* (i. e. minimize)
+  * 📝 *Inlining*
 
 ---
 
@@ -21,9 +21,9 @@
 ### Initial/Next visit Load Performance
 
 * **Initial** Load Performance
-  * *Deliver code on demand* 📡
-  * *Server-side rendering* 🗞
-  * *Reduce number of requests* 🚈
+  * 📡 *Deliver code on demand*
+  * 🏰 *Server-side rendering*
+  * 🚈 *Reduce number of requests*
 * **Next-visit** Load Performance
-  * *Long Term Caching* ⌛️
-  * *Offline* 🔋
+  * ⌛️ *Long Term Caching*
+  * 🔋 *Offline*

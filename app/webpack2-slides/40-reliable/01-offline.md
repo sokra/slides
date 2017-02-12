@@ -13,9 +13,9 @@ import offlineRuntime from "offline-plugin/runtime";
 offlineRuntime.install();
 ```
 
-* Compiles **Service Worker** ⚙️
-* with **Assets Manifest** from webpack result 💻
-* Optionally add custom Service Worker entry point 🤓
+* ⚙️ Compiles **Service Worker**
+* 💻 with **Assets Manifest** from webpack result
+* 🤓 Optionally add custom Service Worker entry point
 
 ---
 
@@ -30,7 +30,7 @@ offlineRuntime.install();
 
 ---
 
-* Little known: JS in *Service Worker Cache* skips *Parse and Compile* in Chrome. ⌛️ 
+* Little known: JS in *Service Worker Cache* skips *Parse and Compile* in Chrome. ⌛️
 * Service Worker is also useful when not having API offline. *Use it.* 🏅 
 
 ---
@@ -39,7 +39,7 @@ offlineRuntime.install();
 
 ## Offline + Long Term Caching [Expert]
 
-* With *default* configuration SW always **downloads whole app** 🤔 
+* With *default* configuration SW always **downloads whole app** 🤔
 * Use *`updateStrategy: "changed"`* to **request only changed** assets 👍
   * Only works with **hash in filename**! 📧
 

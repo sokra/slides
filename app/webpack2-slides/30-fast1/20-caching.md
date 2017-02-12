@@ -23,7 +23,7 @@ output: { // in production
 
 <br>
 
-*Problem*: entry chunk is **invalidated** when **any chunk** changes :(
+*Problem*: entry chunk is **invalidated** when **any chunk** changes 🤔
 
 <br>
 

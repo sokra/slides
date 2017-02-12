@@ -2,12 +2,13 @@
 
 webpack uses a hybrid approach:
 
-* Bundle *related parts* of the app together (**chunks**) 📦📦📦
-* Load **chunks** *when used* 📡📦
+* 📦 Bundle *related parts* of the app together
+  * These parts are called **chunks** 📦📦📦
+* 📡📦 Load **chunks** *when used*
 
-Better *initial load performance*. 🚀
+🚀 Better *initial load performance*. 🚀
 
-**MUST USE!** 💯
+💯 **MUST USE!** 💯
 
 ---
 
@@ -45,7 +46,7 @@ onhover = () => getPromise(); 📡 // preload on hover (faster!)
 
 onclick = () => {
   getPromise()
-    .then(([moduleA, { default: b }]) => { /*...*/ }) ⚗️ // destruct
+    .then(([moduleA, { "default": b }]) => { /*...*/ }) // destruct
     .catch(err => { /*...*/ }); 🚧 // handle loading error
 };
 ```

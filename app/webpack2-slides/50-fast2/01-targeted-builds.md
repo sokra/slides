@@ -19,17 +19,17 @@ Make them **compile-time values**! ⚙️
 
 ## 📌 Targeted Builds 📌 [Expert]
 
-* **Smaller** builds 🚀
+* 🚀 **Smaller** builds
   * Only include code you need
 * Common examples
-  * *Polyfills* 💉
-  * *Translation data* 🏳️
-  * *New version of an app feature* ⚗️
-* **Expensive** to **build** ⏱
-* **Expensive** when **property change** ⌛️ 
+  * 💉 *Polyfills*
+  * 🏳️ *Translation data*
+  * ⚗️ *New version of an app feature*
+* ⏱ **Expensive** to **build**
+* ⌛️ **Expensive** when **property change**
   * Reload complete bundle/page
   * Use properties that *doesn't change*
-* The better the more possible values per property.
+* More efficient with the more possible values per property.
 
 ---
 

@@ -5,9 +5,11 @@
   "main": "none",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --hot --inline --devtool cheap-module-source-map --debug",
-    "build": "webpack -p --progress --profile",
-    "deploy": "gh-pages -d build"
+    "start:webpack": "webpack-dev-server --hot -d --env.app webpack",
+    "start:frontend-optimize": "webpack-dev-server --hot -d --env.app frontend-optimize",
+    "start:webpack2": "webpack-dev-server --hot -d --env.app webpack2",
+    "build": "rm -rf build && webpack -p --progress --profile --env.prod",
+    "deploy": "cp public build && gh-pages -d build"
   },
   "keywords": [
     "slides"
@@ -34,6 +36,7 @@
     "html-loader": "^0.3.0",
     "html-webpack-plugin": "^1.6.1",
     "markdown-loader": "^0.1.7",
+    "offline-plugin": "^4.6.1",
     "react": "^0.13.3",
     "style-loader": "^0.12.4",
     "webpack": "^2.2.0",

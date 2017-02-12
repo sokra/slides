@@ -1,1 +1,1 @@
-# Fast (more)
+# 🚀 Fast (more) 🚀

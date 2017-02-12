@@ -1,11 +1,11 @@
-## Caching [Beginner]
+## ⌛️ Caching ⌛️ [Beginner]
 
-Add a **hash** of the file content **to filename**.
+Add a **hash** of the file content **to filename**. 📧
 
 ``` js
 output: { // in production
-  filename: "[chunkhash].js"
-  chunkFilename: "[chunkhash].js"
+  filename: "[chunkhash].js", 📲
+  chunkFilename: "[chunkhash].js" 📲
 }
 ```
 
@@ -17,7 +17,7 @@ output: { // in production
 
 ---
 
-## Caching [Expert]
+## 🚧 Caching 🚧 [Expert]
 
 *Fact*: Using **`[chunkhash]`** adds a **list of all hashes** to the entry chunk (first js file).
 
@@ -27,7 +27,7 @@ output: { // in production
 
 <br>
 
-*Solution 1*: Small **entry chunk**, and **inline** it into HTML.
+*Solution*: Small **entry chunk**, and **inline** it into HTML.
 
 ---
 

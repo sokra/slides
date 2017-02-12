@@ -1,5 +1,5 @@
-## Me
+## 😃 Me
 
-github: [@sokra](https://github.com/sokra)
+github: [@sokra](https://github.com/sokra) 🤓
 
-twitter: [@wSokra](https://twitter.com/wSokra)
+twitter: [@wSokra](https://twitter.com/wSokra) 😎

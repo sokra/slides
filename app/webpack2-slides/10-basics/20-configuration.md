@@ -1,16 +1,16 @@
 ## How to use webpack? [Beginner]
 
-**Install**: `npm install webpack` (`-g`)
+**Install**: `npm install webpack` (`-g`) 📥
 
-**CLI**: `webpack ./entry.js bundle.js`
+**CLI**: `webpack ./entry.js bundle.js` 😇
 
-**CLI with Configuration file**: `webpack`
+**CLI with Configuration file**: `webpack` 🤓
 
 ``` js
 module.exports = {
-  entry: "./entry.js",
+  entry: "./entry.js", 📕
   output: {
-    filename: "bundle.js"
+    filename: "bundle.js" 📲
   }
 }
 ```
@@ -21,14 +21,14 @@ module.exports = {
 
 ## How to use webpack?
 
-Configuration **arguments**
+Configuration **arguments** 🔧
 
 ``` js
 module.exports = env => ({
   // ...
   output: {
-    filename: env.cache ? "[chunkhash].js" : "bundle.js",
-    chunkFilename: env.cache ? "[chunkhash].js" : "[id].chunk.js"
+    filename: env.cache ? "[chunkhash].js" : "bundle.js", 📲
+    chunkFilename: env.cache ? "[chunkhash].js" : "[id].chunk.js" 📲
   }
 });
 ```
@@ -39,7 +39,7 @@ module.exports = env => ({
 
 ---
 
-## How to use webpack? [Expert]
+## 🤓 How to use webpack? 🤓 [Expert]
 
 ``` js
 const LANGUAGES = ["default", "de", "it"];

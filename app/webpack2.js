@@ -1,6 +1,6 @@
 import React from "react";
 import bespoke from "bespoke";
-import progress from "bespoke-progress";
+import progress from "./plugins/bespoke-progress-time";
 import keys from "bespoke-keys";
 import touch from "bespoke-touch";
 import hash from "bespoke-hash";
@@ -61,7 +61,9 @@ var deck = bespoke.from("article", [
 	hash(),
 	theme(),
 	scale(),
-	progress()
+	progress({
+		time: 30 * 60 * 1000
+	})
 ]);
 
 if(module.hot) {

@@ -1,15 +1,19 @@
 var path = require("path");
 var HtmlWebpackPlugin = require("html-webpack-plugin");
+const OfflinePlugin = require("offline-plugin");
 
-module.exports = {
-	entry: {
-		webpack: "./app/webpack",
-		webpack2: "./app/webpack2",
-		"frontend-optimize": "./app/frontend-optimize"
-	},
+var APPS = ["webpack", "frontend-optimize", "webpack2"];
+
+module.exports = env => APPS.filter(APP => !env || !env.app || env.app === APP).map(APP => ({
+	name: APP,
+	entry: [
+		`./app/${APP}`,
+		env && env.prod && "./app/offline"
+	].filter(Boolean),
 	output: {
-		path: path.resolve(__dirname, "build"),
-		filename: "[name].js"
+		path: path.resolve(__dirname, "build", APP),
+		filename: `app.js`,
+		publicPath: `/${APP}/`
 	},
 	module: {
 		rules: [
@@ -44,16 +48,9 @@ module.exports = {
 	},
 	plugins: [
 		new HtmlWebpackPlugin({
-			filename: "frontend-optimize.html",
-			chunks: ["frontend-optimize"]
+			filename: "index.html",
+			title: APP
 		}),
-		new HtmlWebpackPlugin({
-			filename: "webpack.html",
-			chunks: ["webpack"]
-		}),
-		new HtmlWebpackPlugin({
-			filename: "webpack2.html",
-			chunks: ["webpack2"]
-		})
-	]
-}
+		env && env.prod && new OfflinePlugin()
+	].filter(Boolean)
+}));

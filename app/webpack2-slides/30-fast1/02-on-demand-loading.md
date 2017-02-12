@@ -2,12 +2,12 @@
 
 webpack uses a hybrid approach:
 
-* Bundle *related parts* of the app together (**chunks**)
-* Load **chunks** *when used*
+* Bundle *related parts* of the app together (**chunks**) 📦📦📦
+* Load **chunks** *when used* 📡📦
 
-Better *initial load performance*.
+Better *initial load performance*. 🚀
 
-**MUST USE!**
+**MUST USE!** 💯
 
 ---
 
@@ -17,14 +17,14 @@ Better *initial load performance*.
 
 It's an **opt-in feature**.
 
-Developer can use *async `import`* to trigger it.
+Developer 🤓 can use *async `import`* to trigger it.
 
 ``` js
-// module is in same chunk
-import moduleA from "module-a";
+// module is in same chunk 
+import moduleA from "module-a"; 📦
 
-// module is in separate chunk
-import("module-b").then(moduleB => {
+// module is in separate chunk 
+import("module-b").then(moduleB => { 📡📦
   moduleB.default
 });
 ```
@@ -33,19 +33,19 @@ import("module-b").then(moduleB => {
 
 ---
 
-## On Demand Loading [Expert]
+## 🤓 On Demand Loading 🤓 [Expert]
 
 ``` js
 const getPromise = () => Promise.all([
-  import("module-a"),
-  import("module-b")
+  import("module-a"), 📡📦
+  import("module-b") 📡📦
 ]); // load multiple modules in parallel
 
-onhover = () => getPromise(); // preload on hover (faster!)
+onhover = () => getPromise(); 📡 // preload on hover (faster!)
 
 onclick = () => {
   getPromise()
-    .then(([moduleA, { default: b }]) => { /*...*/ }) // destruct
-    .catch(err => { /*...*/ }); // handle loading error
+    .then(([moduleA, { default: b }]) => { /*...*/ }) ⚗️ // destruct
+    .catch(err => { /*...*/ }); 🚧 // handle loading error
 };
 ```

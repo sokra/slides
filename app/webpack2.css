@@ -53,12 +53,19 @@ pre {
 	width: 100%;
 }
 
-img:not([alt~=(inline)]) {
+img:not([alt*=inline]) {
 	background: white;
 	border-radius: 5px;
 	padding: 10px;
 	text-decoration: none;
 }
+
+/*img {
+	background: transparent;
+	border-radius: 0px;
+	padding: 0px;
+	text-decoration: none;
+}*/
 
 img[alt=webpack] {
 	background: transparent;
@@ -81,4 +88,14 @@ a.img {
 
 .bespoke-backdrop.beginner {
 	background: darkgreen;
+}
+
+.bespoke-progress-bar-time {
+    background: #ddd;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    height: 100%;
+    -webkit-transition: width 1s ease;
+    transition: width 1s ease;
 }

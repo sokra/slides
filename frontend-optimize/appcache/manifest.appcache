@@ -1,10 +1,10 @@
 CACHE MANIFEST
-#ver:2017-2-13 16:01:40
+#ver:2017-2-13 16:09:07
 #plugin:4.6.1
 
 CACHE:
-/frontend-optimize/app.js
-/frontend-optimize/
+../app.js
+../
 
 NETWORK:
 *

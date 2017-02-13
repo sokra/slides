@@ -1,18 +1,18 @@
 CACHE MANIFEST
-#ver:2017-2-13 16:01:40
+#ver:2017-2-13 16:09:07
 #plugin:4.6.1
 
 CACHE:
-/webpack/ce8a4f34251f4e656482e69b1f8af5c3.png
-/webpack/4cd4455cffd866cf1b4afe15bf737862.png
-/webpack/1d6aab11ed6e47e9f3f056f69e97c236.png
-/webpack/ff408b7bff30c5d89ed51e6740eefbc6.png
-/webpack/594a6c16fae5a94b8014c6abda7ecd25.png
-/webpack/31ce6ae095ee45fac65ecade7fc105f9.png
-/webpack/4bcdb425cc2cbe8b8a0ad97184feb188.png
-/webpack/6eaa1dd1e11f775a440278bd5b11232b.png
-/webpack/app.js
-/webpack/
+../ce8a4f34251f4e656482e69b1f8af5c3.png
+../4cd4455cffd866cf1b4afe15bf737862.png
+../1d6aab11ed6e47e9f3f056f69e97c236.png
+../ff408b7bff30c5d89ed51e6740eefbc6.png
+../594a6c16fae5a94b8014c6abda7ecd25.png
+../31ce6ae095ee45fac65ecade7fc105f9.png
+../4bcdb425cc2cbe8b8a0ad97184feb188.png
+../6eaa1dd1e11f775a440278bd5b11232b.png
+../app.js
+../
 
 NETWORK:
 *

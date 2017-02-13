@@ -8,7 +8,7 @@
     "start:webpack": "webpack-dev-server --hot -d --env.app webpack",
     "start:frontend-optimize": "webpack-dev-server --hot -d --env.app frontend-optimize",
     "start:webpack2": "webpack-dev-server --hot -d --env.app webpack2",
-    "build": "rm -rf build && webpack -p --progress --profile --env.prod && cp -r public/ build/",
+    "build": "rm -rf build && webpack -p --progress --profile --env.prod && cp -r public/* build",
     "deploy": "gh-pages -d build"
   },
   "keywords": [

@@ -12,8 +12,7 @@ module.exports = env => APPS.filter(APP => !env || !env.app || env.app === APP).
 	].filter(Boolean),
 	output: {
 		path: path.resolve(__dirname, "build", APP),
-		filename: `app.js`,
-		publicPath: `/${APP}/`
+		filename: `app.js`
 	},
 	module: {
 		rules: [

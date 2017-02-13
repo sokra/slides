@@ -8,8 +8,8 @@
     "start:webpack": "webpack-dev-server --hot -d --env.app webpack",
     "start:frontend-optimize": "webpack-dev-server --hot -d --env.app frontend-optimize",
     "start:webpack2": "webpack-dev-server --hot -d --env.app webpack2",
-    "build": "rm -rf build && webpack -p --progress --profile --env.prod",
-    "deploy": "cp public build && gh-pages -d build"
+    "build": "rm -rf build && webpack -p --progress --profile --env.prod && cp -r public/ build/",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [
     "slides"
@@ -31,7 +31,7 @@
     "bespoke-touch": "^1.0.0",
     "css-loader": "^0.19.0",
     "file-loader": "^0.8.4",
-    "gh-pages": "^0.4.0",
+    "gh-pages": "^0.12.0",
     "highlight.js": "^8.8.0",
     "html-loader": "^0.3.0",
     "html-webpack-plugin": "^1.6.1",

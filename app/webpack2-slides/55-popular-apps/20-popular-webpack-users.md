@@ -44,8 +44,9 @@
 * 📦 1 vender chunk
 * 📦 1 app chunk (App Shell)
 * 📦 35 page chunks
-* Service Worker
-  * broken?
+* 🔋 **Service Worker** (App and Content)
+  * Content on "shortlist" is offline available
+  * Great UX for visualizing offline content
 
 ---
 

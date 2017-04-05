@@ -4,7 +4,7 @@ Display content faster.
 
 * **Render** HTML **on server-side**.
 * Progressive enhance it with client-side JS.
-* New challanges
+* New challenges
   * Framework support
   * Data Fetching
   * **Run same code on Server and Client**

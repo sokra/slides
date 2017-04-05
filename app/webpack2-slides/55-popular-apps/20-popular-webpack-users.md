@@ -31,7 +31,7 @@
 * ⌛️ **Long Term Caching** with chunkhash
 * 📦 **DLL** bundled vendors (use by both bundles)
 * 📦 **separate** bundle for **important features**
-* 📡📦 48 **on demand** chunks (progessive enhanced)
+* 📡📦 48 **on demand** chunks (progressive enhanced)
   * very tiny (some could be merged => `MinChunkSizePlugin`)
 
 ---

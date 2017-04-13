@@ -4,7 +4,7 @@
 
 We don't need the search code yet (the user hasn't clicked the search button)
 
-But the user will propably click it soon
+But the user will probably click it soon
 
 We should have some **script file prepared** that we can load
 

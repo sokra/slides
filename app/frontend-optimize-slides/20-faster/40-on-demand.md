@@ -8,4 +8,4 @@
   * Be careful: This is expensive → prepare it
 * Try to **guess** what stuff the user **will need** and download it
   * The guessing algorithm is very application specific
-  * But propably easier than you think
+  * But probably easier than you think

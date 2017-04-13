@@ -15,6 +15,6 @@
 
 ### What's worse when bundling?
 
-* 💸 Inefficent *caching*
+* 💸 Inefficient *caching*
 * 😕 Inital *load is slow*
-* ⚔️ *Adding code* on rarly used part affects *overall performance*
+* ⚔️ *Adding code* on rarely used part affects *overall performance*

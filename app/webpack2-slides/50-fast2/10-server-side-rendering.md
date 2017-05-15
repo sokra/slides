@@ -19,8 +19,8 @@ Display content faster.
 * Frontend code often **doesn't run on node.js**
   * *imports CSS, Images, Fonts, etc.*
 * webpack has a **`target`** option
-  * defaults to `web`
-  * **`node`**: Build bundle for node.js
+  * defaults to `"web"`
+  * **`"node"`**: Build bundle for node.js
 * *separate config* for server build
   * `style-loader` -> **`null-loader`**
   * `file-loader` -> **`file-loader { emitFile: false }`**

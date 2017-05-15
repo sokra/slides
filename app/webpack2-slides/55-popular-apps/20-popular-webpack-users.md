@@ -74,8 +74,8 @@
 * 1 manifest chunk (but not inlined 🤔)
 * 📦 1 vendor chunk
 * 📦 1 app chunk (**App Shell**)
-* 📦 48 **language chunks** (globalize-webpack-plugin)
-* 📦 41 page chunks
-* 📡📦 2 on demand chunks
-* 🔋 **Service Worker** (serving App, but not Content)
-  * installed too early? Slows down connection.
+* 📦 44 **language chunks** (globalize-webpack-plugin)
+* 📦 37 page chunks
+* 📡📦 4 on demand chunks
+* 🔋 **Service Worker** (serving App and Content)
+* https://blog.twitter.com/2017/how-we-built-twitter-lite

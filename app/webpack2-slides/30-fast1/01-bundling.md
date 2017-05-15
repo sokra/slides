@@ -2,7 +2,7 @@
 
 ### Why is bundling better than serving modules directly?
 
-* ⚗️ browsers *don't support modules* (currently)
+* ⚗️ not all browsers *support modules*
 * 🚈 *fewer requests*
 * ✂️ *better gzipping*
 * 📧 *less* browser *overhead*

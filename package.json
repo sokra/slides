@@ -41,8 +41,5 @@
     "style-loader": "^0.12.4",
     "webpack": "^2.2.0",
     "webpack-dev-server": "^2.0.0"
-  },
-  "devDependencies": {
-    "gh-pages": "^0.4.0"
   }
 }

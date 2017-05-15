@@ -50,3 +50,24 @@ onclick = () => {
     .catch(err => { /*...*/ }); 🚧 // handle loading error
 };
 ```
+
+---
+
+---
+
+## 🤓 On Demand Loading 🤓 [Expert]
+
+``` js
+// Give the chunk a name
+import( /* webpackChunkName: "my-chunk" */"module-a")
+```
+
+``` js
+// Join chunks with equal name
+import(/* webpackChunkName: "my-chunk" */"module-b")
+```
+
+``` js
+// *Simple*  expressions are supported
+import(`./pages/${page}`)
+```

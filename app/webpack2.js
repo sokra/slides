@@ -62,7 +62,7 @@ var deck = bespoke.from("article", [
 	theme(),
 	scale(),
 	progress({
-		time: 30 * 60 * 1000
+		time: 40 * 60 * 1000
 	})
 ]);
 

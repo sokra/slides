@@ -6,6 +6,8 @@
 
 ## [In-depth Introduction to webpack2](http://sokra.github.io/slides/webpack2/)
 
+## [How webpack works](https://raw.githubusercontent.com/sokra/slides/master/data/how-webpack-works.pdf)
+
 # Build from source
 
 ``` js

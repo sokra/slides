@@ -8,6 +8,8 @@
 
 ## [How webpack works](https://raw.githubusercontent.com/sokra/slides/master/data/how-webpack-works.pdf)
 
+## [Did you know ...? 15 less known webpack features in 15 minutes](https://raw.githubusercontent.com/sokra/slides/master/data/15-less-know-webpack-features.pdf)
+
 # Build from source
 
 ``` js

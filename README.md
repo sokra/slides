@@ -12,6 +12,8 @@
 
 ## [My Story with webpack](https://raw.githubusercontent.com/sokra/slides/master/data/MyWebpackStory.pdf)
 
+## [webpack and the challenge of WebAssembly](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-wasm-challenge.pdf)
+
 # Build from source
 
 ``` js

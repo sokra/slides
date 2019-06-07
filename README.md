@@ -14,6 +14,8 @@
 
 ## [webpack and the challenge of WebAssembly](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-wasm-challenge.pdf)
 
+## [webpack 5 - why breaking changes](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-5-why-breaking-changes.pdf)
+
 # Build from source
 
 ``` js

@@ -16,6 +16,8 @@
 
 ## [webpack 5 - why breaking changes](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-5-why-breaking-changes.pdf)
 
+## [webpack 5 - what's new](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-5-whats-new.pdf)
+
 # Build from source
 
 ``` js

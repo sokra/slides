@@ -2,8 +2,8 @@
 
 ## 2019
 
-* [Live Coding: Writing a Localization plugin for webpack 5](https://raw.githubusercontent.com/sokra/slides/master/data/Writing-a-Localization-plugin-for-webpack-5.pdf) + [Repo with Steps](https://github.com/sokra/localization-plugin-talk/commits/master)
-* [webpack - The past - The present - The future](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-past-present-future.pdf)
+* [Live Coding: Writing a Localization plugin for webpack 5](https://raw.githubusercontent.com/sokra/slides/master/data/Writing-a-Localization-plugin-for-webpack-5.pdf) + [Repo with Steps](https://github.com/sokra/localization-plugin-talk/commits/master) + Video soon
+* [webpack - The past - The present - The future](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-past-present-future.pdf) + Video soon
 * [webpack 5 - what's new](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-5-whats-new.pdf)
 * [webpack 5 - why breaking changes](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-5-why-breaking-changes.pdf) + [Video](https://www.youtube.com/watch?v=p-MhcctQBlY)
 

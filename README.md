@@ -1,34 +1,26 @@
 # slides from @sokra
 
-## [Introduction to webpack](http://sokra.github.io/slides/webpack/)
+## 2019
 
-## [Advanced Frontend Optimization (with webpack)](http://sokra.github.io/slides/frontend-optimize/)
+* [Live Coding: Writing a Localization plugin for webpack 5](https://raw.githubusercontent.com/sokra/slides/master/data/Writing-a-Localization-plugin-for-webpack-5.pdf) + [Repo with Steps](https://github.com/sokra/localization-plugin-talk/commits/master)
+* [webpack - The past - The present - The future](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-past-present-future.pdf)
+* [webpack 5 - what's new](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-5-whats-new.pdf)
+* [webpack 5 - why breaking changes](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-5-why-breaking-changes.pdf) + [Video](https://www.youtube.com/watch?v=p-MhcctQBlY)
 
-## [In-depth Introduction to webpack2](http://sokra.github.io/slides/webpack2/)
+## 2018
 
-## [How webpack works](https://raw.githubusercontent.com/sokra/slides/master/data/how-webpack-works.pdf)
+* [webpack and the challenge of WebAssembly](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-wasm-challenge.pdf) + [Video](https://www.youtube.com/watch?v=k86Z_6_BJy0)
+* [Live Coding: bundling by hand (Video)](https://www.youtube.com/watch?v=UNMkLHzofQI)
+* [My Story with webpack](https://raw.githubusercontent.com/sokra/slides/master/data/MyWebpackStory.pdf)
 
-## [Did you know ...? 15 less known webpack features in 15 minutes](https://raw.githubusercontent.com/sokra/slides/master/data/15-less-know-webpack-features.pdf)
+## 2017
 
-## [My Story with webpack](https://raw.githubusercontent.com/sokra/slides/master/data/MyWebpackStory.pdf)
+* [Did you know ...? 15 less known webpack features in 15 minutes](https://raw.githubusercontent.com/sokra/slides/master/data/15-less-know-webpack-features.pdf) + [Video](https://www.youtube.com/watch?v=2EaP3a6E4B0)
+* [How webpack works](https://raw.githubusercontent.com/sokra/slides/master/data/how-webpack-works.pdf) + [Video](https://www.youtube.com/watch?v=CA-upQKYjYc)
+* [In-depth Introduction to webpack2](http://sokra.github.io/slides/webpack2/)
 
-## [webpack and the challenge of WebAssembly](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-wasm-challenge.pdf)
+## 2016
 
-## [webpack 5 - why breaking changes](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-5-why-breaking-changes.pdf)
+* [Advanced Frontend Optimization (with webpack)](http://sokra.github.io/slides/frontend-optimize/)
+* [Introduction to webpack](http://sokra.github.io/slides/webpack/)
 
-## [webpack 5 - what's new](https://raw.githubusercontent.com/sokra/slides/master/data/webpack-5-whats-new.pdf)
-
-# Build from source
-
-``` js
-npm install
-npm run start:webpack2 &
-open http://localhost:8080/webpack2/
-```
-
-# Publish
-
-``` js
-npm run build
-npm run deploy
-```

@@ -1,5 +1,9 @@
 # slides from @sokra
 
+## 2020
+
+* [Module Federation in webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md) + Video (coming soon)
+
 ## 2019
 
 * [Live Coding: Writing a Localization plugin for webpack 5](https://raw.githubusercontent.com/sokra/slides/master/data/Writing-a-Localization-plugin-for-webpack-5.pdf) + [Repo with Steps](https://github.com/sokra/localization-plugin-talk/commits/master) + [Video](https://www.youtube.com/watch?v=GDW9RpFSIeo)

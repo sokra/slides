@@ -3,7 +3,7 @@
 ## 2020
 
 * [webpack 5 Miniseries (Video only)](https://www.youtube.com/watch?v=3c-RFpaiUT8&list=PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5&index=34&t=0s)
-* [Module Federation in webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md) + Video (coming soon)
+* [Module Federation in webpack 5](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md) + [Video](https://www.youtube.com/watch?v=gmUm7CTsNhk)
 
 ## 2019
 
